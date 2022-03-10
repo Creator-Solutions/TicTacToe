@@ -117,7 +117,7 @@ public class Server {
 ```
 
 
-- [x] To Work on the project open a Pull Request.
+- [ ] To Work on the project open a Pull Request.
 
 ## This project is open source! 
 
