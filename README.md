@@ -1,6 +1,6 @@
 # Tic Tac Toe Java Edition
 
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Creator-Solutions/TicTacToe?style=flat-square">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Creator-Solutions/TicTacToe?style=flat-square"> ![GitHub](https://img.shields.io/github/license/Creator-Solutions/TicTacToe)
 
 ## Official Repo For GUI Based Tic Tac Toe Game
 
