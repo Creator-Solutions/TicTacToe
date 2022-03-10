@@ -23,6 +23,19 @@ My first big project I took on. Although not finished
 - [x] Open 2 or More Main.java files located in the client package. 
 - [x] Execute The +2 Main.java file.
 
+```java
+package client;
+
+public class Main {
+
+    public static void main(String[] args){
+        Client client = new Client();
+        client.Client_Connect();
+    }
+}
+```
+
+
 - [x] To Work on the project open a Pull Request.
 
 ## This project is open source! 
