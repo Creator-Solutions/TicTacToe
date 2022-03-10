@@ -3,9 +3,13 @@
 ## Official Repo For GUI Based Tic Tac Toe Game
 
 ### Project Information
-======
-> Built with Java JDK 17. <br>
-> Project Size 24.0KB
+
+=================================
+
+> Java JDK Version: JDK 17 <br>
+> Project Size: 24.0KB
+
+
 
 
 
