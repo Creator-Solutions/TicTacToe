@@ -4,7 +4,7 @@
 
 ## Official Repo For GUI Based Tic Tac Toe Game
 
-My first big project I took on. Although not finished 
+My first big project I took on. Although not finished it is still in a working progress. Tic Tac Toe in Java, with a swing UI, with a local socket multiplayer swing add onto it. 
 
 ### Project Information
 -----
