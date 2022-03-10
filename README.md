@@ -27,6 +27,8 @@ My first big project I took on. Although not finished
 
 ## This project is open source! 
 
+Copyright © 2022, Creator-Solutions. Released under the GPL License.
+
 
 
 
