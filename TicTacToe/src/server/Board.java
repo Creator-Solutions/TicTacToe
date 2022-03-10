@@ -2,11 +2,14 @@ package server;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 
 public class Board extends JPanel {
 
+    /**
+     * Server side board class
+     * Handles updating
+     * Clearing
+     */
     private final int $WIDTH = 350;
     private final int $HEIGHT = 350;
 
